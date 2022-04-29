@@ -1,0 +1,106 @@
+
+.heading{
+    border-radius: 40%;
+    margin-top: 0%;
+    background-color: aqua;
+   font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.introduction{
+    
+    margin-top: 0%;
+    background-color: palegoldenrod;
+   font-family: 'Times New Roman', Times, serif;
+}
+.career{
+    padding-top: 2px;
+    padding-bottom: 1px;
+    background-color: aqua;
+    margin-top: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ob{
+    margin-top: 0%;
+    font-size: large;
+    font-weight: 400;
+    background-color: palegoldenrod;
+}
+.Education{
+    margin-top: 0px;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.edu{
+    margin-top: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: palegoldenrod;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+    
+}
+.skill{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ps{
+    background-color: palegoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+.software{
+background-color: aqua;
+font-family: 'Times New Roman', Times, serif;
+margin-top: 0ch;
+}
+.soft{
+    background-color: palegoldenrod;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+}
+.achievements{
+    background-color: aqua;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+}
+.achieve{
+    background-color: palegoldenrod;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pp{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+
+}
+.personal{
+    background-color: palegoldenrod;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.dec{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+.para{
+    background-color: palegoldenrod;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.approve{
+    background-color:palegoldenrod;
+    margin-top: 0ch;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
